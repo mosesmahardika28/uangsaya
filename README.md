@@ -13,7 +13,7 @@
 
 ## 📱 Demo
 
-🔗 **[Coba Langsung → mellow-tulumba-7b4d4f.netlify.app](https://mellow-tulumba-7b4d4f.netlify.app)**
+🔗 **[Coba Langsung → gleaming-melomakarona-4eccae.netlify.app]([https://mellow-tulumba-7b4d4f.netlify.app](https://gleaming-melomakarona-4eccae.netlify.app/))**
 
 > Aplikasi berjalan **100% offline** di browser. Data tersimpan lokal di device kamu — tidak ada server, tidak ada akun, tidak ada iklan.
 
